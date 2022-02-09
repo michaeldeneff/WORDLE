@@ -1,2 +1,3 @@
-# WORDLE
-Diving into WORDLE, the game, and creating valuable insights through R and Tableau
+#         WORDLE
+Diving into WORDLE, the game.
+Creating value and insights into the history of answers and letters
